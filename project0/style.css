@@ -1,0 +1,28 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+header{
+    background-color: brown;
+    text-align: justify;
+}
+
+footer
+{
+    color: antiquewhite;
+    background-color: #1A1A1A;
+    width: 100%;
+    position: absolute;
+    bottom: 0;    
+}
+
+footer ul {
+    display: flex;
+    justify-content:space-evenly;
+}
+
+body {
+    overflow:auto ;
+
+}
